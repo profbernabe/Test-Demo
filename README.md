@@ -21,7 +21,7 @@ add(1,0) # returns 1
 add (2, -3) # returns -1
 ```
 
-## Function 2: repeat_word(word, times)
+## Function 2: `repeat_word(word, times)`
 
 Write a function named repeat_word that:
 

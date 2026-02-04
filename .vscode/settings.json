@@ -1,7 +1,7 @@
 
 {
-    "python.testing.pytestEnabled": true,
-    "python.testing.unittestEnabled": false,
-    "python.testing.nosetestsEnabled": false,
-    "python.testing.autoTestDiscoverOnSaveEnabled": true
+    "_comment":"python.testing.pytestEnabled": true,
+    "_comment":"python.testing.unittestEnabled": false,
+    "_comment":"python.testing.nosetestsEnabled": false,
+    "_comment":"python.testing.autoTestDiscoverOnSaveEnabled": true
 }

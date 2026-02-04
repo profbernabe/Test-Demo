@@ -8,11 +8,8 @@ COLLABORATOR(S): name(s) of anyone who helped you, like a peer, tutor, lab video
 Write a one to two-line comment to summarize what the program does
 """
 
-# Starter Code
-print("Hello World")
+def add(a, b):
+  pass
 
-# Step 1
 
-# Step 2
 
-# Step 3

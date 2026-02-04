@@ -27,7 +27,7 @@ Write a function named repeat_word that:
 
 Takes a string called word
 
-Takes a number called times
+Takes a number called times, you can assume the number will be positive so you won't have to error check
 
 Returns the string repeated times times
 ### Examples
